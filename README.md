@@ -1,0 +1,2 @@
+# AlgorithmChallengeGame
+一个很有意思的Python算术游戏，有排行榜功能，可把游戏数据保存到本地
